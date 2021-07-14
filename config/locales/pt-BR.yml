@@ -1,0 +1,29 @@
+pt-BR:
+  current_lang: Português
+  labels:
+    crypto_coins: Moedas Digitais
+    mining_types: Tipos de Mineração
+    editing_coins: Editando Moeda
+    editing_mining_type: Editando Tipo de Mineração
+    new_coin: Nova Moeda
+    new_mining_type: Novo Tipo de Moeda
+    select: Selecione...
+  links: 
+    add: Adicionar
+    delete: Deletar
+    edit: Editar
+    return: Voltar
+    show: Mostrar
+  messages:
+    welcome: Seja bem-vindo!
+    option_text: Para começar selecione alguma das duas opções.
+    main_text: Esse é o CryptoWallet, um app pra você cadastrar e acompanhar suas moedas digitais.
+    to_confirm_to_destroy: Você deseja realmente excluir o item selecionado?
+  coin_messages:
+    created_success: Moeda criada com sucesso!
+    destroyed_success: Moeda excluída com sucesso!
+    updated_success: Moeda atualizada com sucesso!
+  mining_type_messages:
+    created_success: Tipo de moeda criado com sucesso!
+    destroyed_success: Tipo de moeda excluído com sucesso!
+    updated_success: Tipo de moeda atualizado com sucesso!

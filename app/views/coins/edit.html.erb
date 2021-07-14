@@ -1,0 +1,6 @@
+<h1><%= t('labels.editing_coins') %></h1>
+
+<%= render 'form', coin: @coin %>
+
+<%= link_to t('links.show'), @coin %> |
+<%= link_to t('links.return'), coins_path %>

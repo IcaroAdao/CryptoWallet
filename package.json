@@ -1,0 +1,18 @@
+{
+  "name": "crypto_wallet",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "notifyjs-browser": "^0.4.2",
+    "popper.js": "^1.16.1"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Icaro Emidio",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
